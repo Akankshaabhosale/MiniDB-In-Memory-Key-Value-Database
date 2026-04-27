@@ -1,0 +1,4 @@
+C:/Users/ADMIN/Documents/in memory db/build/CMakeFiles/MiniDB.dir
+C:/Users/ADMIN/Documents/in memory db/build/CMakeFiles/StressTest.dir
+C:/Users/ADMIN/Documents/in memory db/build/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Documents/in memory db/build/CMakeFiles/rebuild_cache.dir
